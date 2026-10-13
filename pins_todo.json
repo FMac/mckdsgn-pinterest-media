@@ -1,0 +1,875 @@
+[
+ {
+  "n": 32,
+  "file": "Krea2_Design_Baukasten_V2_01078_.png",
+  "title": "Neuromorphic Lapel Puck // A.I. Driven Product Design by Flo Mack",
+  "desc": "A neuromorphic computing lapel puck with a magnetic collar mount, microperforated acoustic face, thin edge interface ring and discreet acoustic and throat-vibration sensors. Small wearable scale and a clear clip mechanism. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: neuromorphic lapel puck.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 34,
+  "file": "Krea2_Design_Baukasten_V2_01083_.png",
+  "title": "Twist-Up Deodorant Stick // A.I. Driven Product Design by Flo Mack",
+  "desc": "A deodorant stick with an elongated body, an exposed stick surface under a removable cap and a twist-up dial at the base. Comfortable hand-sized grip. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: twist-up deodorant stick.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 37,
+  "file": "MCKDSGN_Transportation_00075_.png",
+  "title": "Luxury Saloon 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric luxury four-door saloon with a separate rear luggage volume and a refined passenger cabin. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: luxury saloon 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 38,
+  "file": "Krea2_Design_Baukasten_V2_01094_.png",
+  "title": "Light Arc Desk Lamp // A.I. Driven Product Design by Flo Mack",
+  "desc": "A desktop lamp with a thin supported light arc, compact weighted base, articulated tilt joint and a recessed touch control. Clear useful downward illumination. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: light arc desk lamp.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 39,
+  "file": "MCKDSGN_Transportation_00076_.png",
+  "title": "Shooting Brake 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric shooting brake with two side doors, a rear hatch and a usable extended cargo roof. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: shooting brake 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 40,
+  "file": "Krea2_Design_Baukasten_V2_01097_.png",
+  "title": "Foldable Sim Racing Console // A.I. Driven Product Design by Flo Mack",
+  "desc": "A foldable racing simulator control console with an open structural handle, a rotary control, articulated hinge body and two tactile control paddles. An accessible inspection cover reveals adaptive haptic hardware. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: foldable sim racing console.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 41,
+  "file": "ST2_NEW_handvac_00001_.png",
+  "title": "Handheld Vacuum // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Low-angle detail shot of an ultra-futuristic AI-assisted cordless handheld vacuum, focused on the nozzle, translucent dust cup and filter cage. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: handheld vacuum.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 42,
+  "file": "Krea2_Design_Baukasten_V2_01098_.png",
+  "title": "Autonomous Farm Carrier // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous agricultural carrier with four oversized narrow disc wheels, a thin suspended load platform, a single diagonal structural sail and an interchangeable seed cargo cassette. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: autonomous farm carrier.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 43,
+  "file": "MCKDSGN_Transportation_00077_.png",
+  "title": "Electric Rally Hatchback // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "An ultra-futuristic electric rally hatchback with a compact enclosed cabin, oversized wheels and functional aerodynamic channels. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: electric rally hatchback.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 44,
+  "file": "Krea2_Design_Baukasten_V2_01100_.png",
+  "title": "Heavy Recovery Vehicle // A.I. Driven Product Design by Flo Mack",
+  "desc": "A recovery vehicle with a heavy chassis, a folding crane arm on the rear deck, front and rear winches, ground spades and a crew cabin. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: heavy recovery vehicle.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 45,
+  "file": "MCKDSGN_Transportation_00078_.png",
+  "title": "Cargo Bike Living Module // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "An ultra-futuristic AI-powered cargo-bike living module with a telescoping sleeping chamber, powered trailer wheel and fold-out work surface. AI manages trailer motor assistance, deployment clearance and automatic stabilizers. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo bike living module.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 46,
+  "file": "Krea2_Design_Baukasten_V2_01101_.png",
+  "title": "Recovery Vehicle Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A recovery vehicle with a heavy chassis, a folding crane arm on the rear deck, front and rear winches, ground spades and a crew cabin. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: recovery vehicle detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 47,
+  "file": "ST2_NEW_headlamp_00001_.png",
+  "title": "Trail Headlamp // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Angled detail shot of an ultra-futuristic AI-adaptive rechargeable trail headlamp, focused on the lens bezel, strap anchor and battery pod. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: trail headlamp.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 48,
+  "file": "Krea2_Design_Baukasten_V2_01102_.png",
+  "title": "Technical Fishtail Parka // A.I. Driven Product Design by Flo Mack",
+  "desc": "An experimental lightweight technical parka with a long protective silhouette, broad sculptural hood, curved sleeves, a side ventilation zipper and split fishtail hem. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: technical fishtail parka.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 49,
+  "file": "MCKDSGN_Transportation_00082_.png",
+  "title": "Kei City Car 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One tiny four-seat electric kei-style city car with four wheels, functional doors and carefully packaged interior space. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: kei city car 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 50,
+  "file": "Krea2_Design_Baukasten_V2_01107_.png",
+  "title": "Fire Hose Deployment Robot // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous fire-service hose deployment AGV with four large wheels, reinforced fenders and an exposed supported hose reel. A thick woven supply hose feeds from the reel, with accessible protected service covers. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: fire hose deployment robot.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 51,
+  "file": "MCKDSGN_Transportation_00084_.png",
+  "title": "Shooting Brake Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric shooting brake with two side doors, a rear hatch and a usable extended cargo roof. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: shooting brake detail.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 52,
+  "file": "Krea2_Design_Baukasten_V2_01108_.png",
+  "title": "Humanoid Service Robot // A.I. Driven Product Design by Flo Mack",
+  "desc": "A humanoid service robot with a readable torso, articulated arms, an open structural head frame and a central mechanical spine. Soft replaceable torso covering and clear joint interfaces. Keep a coherent complete robot anatomy. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: humanoid service robot.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 53,
+  "file": "ST2_NEW_inflator_00001_.png",
+  "title": "Cordless Tire Inflator // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "High-angle detail shot of an ultra-futuristic AI-assisted cordless tire inflator, focused on the hose, pressure gauge dial and motor housing. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cordless tire inflator.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 54,
+  "file": "Krea2_Design_Baukasten_V2_01116_.png",
+  "title": "Electric Performance Coupe // A.I. Driven Product Design by Flo Mack",
+  "desc": "An electric performance coupe with four large tyres, compact two-seat cockpit, an open aerodynamic support structure and connected body wings. Coherent road-vehicle proportions and usable cabin access. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: electric performance coupe.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 55,
+  "file": "MCKDSGN_Transportation_00087_.png",
+  "title": "Compact Off-Roader 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One compact electric off-road vehicle with four wheels, functional approach clearance and a protective enclosed cabin. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: compact off-roader 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 56,
+  "file": "Krea2_Design_Baukasten_V2_01124_.png",
+  "title": "Drone Swarm Carrier // A.I. Driven Product Design by Flo Mack",
+  "desc": "A drone swarm system with a ground carrier station containing a grid of charging landing bays, a dozen small quadcopters taking off in formation and an extended antenna mast. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: drone swarm carrier.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 57,
+  "file": "MCKDSGN_Transportation_00095_.png",
+  "title": "Road Tanker Desert Scene // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric road tanker with a distinct autonomy-service cab volume and a separate sealed cylindrical cargo tank, with credible axle placement. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: road tanker desert scene.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 58,
+  "file": "Krea2_Design_Baukasten_V2_01125_.png",
+  "title": "Station Wagon Roof Tent Camper // A.I. Driven Product Design by Flo Mack",
+  "desc": "A station wagon with a low pop-up roof tent, a side ladder, a rear tailgate canopy and a pull-out storage drawer. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: station wagon roof tent camper.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 59,
+  "file": "ST2_NEW_mixer_00001_.png",
+  "title": "Stand Mixer // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Low-angle detail shot of an ultra-futuristic AI-assisted stand mixer, focused on the planetary head, bowl lock and speed dial. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: stand mixer.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 60,
+  "file": "Krea2_Design_Baukasten_V2_01133_.png",
+  "title": "Cartridge Cordless Vacuum // A.I. Driven Product Design by Flo Mack",
+  "desc": "A cordless vacuum with a replaceable motor cartridge, clear dust collector, ergonomic grip, connected tube and floor head. Serviceable handheld appliance architecture. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: cartridge cordless vacuum.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 61,
+  "file": "MCKDSGN_Transportation_00096_.png",
+  "title": "Road Tanker Side View // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric road tanker with a distinct autonomy-service cab volume and a separate sealed cylindrical cargo tank, with credible axle placement. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: road tanker side view.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 62,
+  "file": "Krea2_Design_Baukasten_V2_01141_.png",
+  "title": "SUV Roof Tent Camper // A.I. Driven Product Design by Flo Mack",
+  "desc": "A SUV with a hard-shell roof tent opened above the cabin, a telescopic access ladder, an awning on one side and roof rails. Strong vertical stacking of car, tent and awning. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: suv roof tent camper.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 63,
+  "file": "MCKDSGN_Transportation_00097_.png",
+  "title": "Utility Pickup 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One compact electric utility pickup with a two-seat cabin and a practical separate open rear load bed. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: utility pickup 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 64,
+  "file": "Krea2_Design_Baukasten_V2_01144_.png",
+  "title": "Auxetic Cycling Helmet // A.I. Driven Product Design by Flo Mack",
+  "desc": "An AI-adaptive urban cycling helmet designed for 2040, with auxetic impact lattice, magnetic visor latch, and rear airflow exhaust. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: auxetic cycling helmet.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 65,
+  "file": "ST2_NEW_padel_00001_.png",
+  "title": "Padel Racket // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Low-angle detail shot of an ultra-futuristic AI-assisted padel racket, focused on the frame throat, grip and perforated hitting surface. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: padel racket.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 66,
+  "file": "Krea2_Design_Baukasten_V2_01145_.png",
+  "title": "Hydrofoil Trimaran // A.I. Driven Product Design by Flo Mack",
+  "desc": "A hydrofoil trimaran whose central hull and exactly two outriggers flow into one manta-like monocoque with broad shoulders, thin trailing edges, open spaces between the hulls and a cockpit carved into the center. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: hydrofoil trimaran.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 67,
+  "file": "MCKDSGN_Transportation_00099_.png",
+  "title": "Urban Crossover 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric five-door urban crossover with a closed passenger cabin, a rear hatch and moderate ground clearance. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: urban crossover 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 68,
+  "file": "Krea2_Design_Baukasten_V2_01148_.png",
+  "title": "Autonomous Following Suitcase // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous carry-on suitcase with four compact drive wheels, a recessed telescopic handle, expanding storage shell and protected owner-following depth sensors. Believable cabin-luggage size and usable opening seams. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: autonomous following suitcase.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 69,
+  "file": "MCKDSGN_Transportation_00100_.png",
+  "title": "Urban Crossover Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric five-door urban crossover with a closed passenger cabin, a rear hatch and moderate ground clearance. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: urban crossover detail.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 70,
+  "file": "Krea2_Design_Baukasten_V2_01149_.png",
+  "title": "Portrait Club DJ Mixer // A.I. Driven Product Design by Flo Mack",
+  "desc": "A club DJ mixer in a tall portrait format with four vertical channel strips, long upfaders, a crossfader at the bottom edge and rows of EQ knobs. Accessible connectors on the rear. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: portrait club dj mixer.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 71,
+  "file": "ST2_NEW_projector_00001_.png",
+  "title": "Pocket Projector // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Angled detail shot of an ultra-futuristic AI-adaptive pocket projector, focused on the lens barrel, focus ring and vented rear shell. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: pocket projector.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 72,
+  "file": "Krea2_Design_Baukasten_V2_01172_.png",
+  "title": "Iridescent Disc Wheel // A.I. Driven Product Design by Flo Mack",
+  "desc": "Iridescent Disc Wheel concept with translucent shells and precise surface detailing. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: iridescent disc wheel.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 73,
+  "file": "MCKDSGN_Transportation_00103_.png",
+  "title": "Research Lab Cabin // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One autonomous mobile research laboratory with a usable enclosed work cell, a continuous chassis and four independently articulated wheel modules; service equipment remains connected to the main vehicle. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: research lab cabin.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 74,
+  "file": "Krea2_Design_Baukasten_V2_01189_.png",
+  "title": "Direct-Drive Sim Racing Rig // A.I. Driven Product Design by Flo Mack",
+  "desc": "A sim racing rig with a steering wheel on a direct-drive base, a pedal set on an adjustable floor frame, a seat mount and a shifter. Room-scale proportion. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: direct-drive sim racing rig.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 75,
+  "file": "MCKDSGN_Transportation_00104_.png",
+  "title": "Research Lab Rear View // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One autonomous mobile research laboratory with a usable enclosed work cell, a continuous chassis and four independently articulated wheel modules; service equipment remains connected to the main vehicle. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: research lab rear view.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 76,
+  "file": "Krea2_Design_Baukasten_V2_01197_.png",
+  "title": "Modular Commuter Backpack // A.I. Driven Product Design by Flo Mack",
+  "desc": "A modular commuter backpack with expanding storage sections, shoulder harness, light support spine, interior dividers and load-distribution sensors. The shoulder straps and back padding remain flexible and wearable. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: modular commuter backpack.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 77,
+  "file": "ST2_NEW_robovac_00001_.png",
+  "title": "Robot Vacuum // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "High-angle detail shot of an ultra-futuristic AI-navigating robot vacuum cleaner, focused on the lidar turret, side brush and bumper edge. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: robot vacuum.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 78,
+  "file": "Krea2_Design_Baukasten_V2_01203_.png",
+  "title": "Farm Carrier Side View // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous agricultural carrier with four oversized narrow disc wheels, a thin suspended load platform, a single diagonal structural sail and an interchangeable seed cargo cassette. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: farm carrier side view.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 79,
+  "file": "MCKDSGN_Transportation_00105_.png",
+  "title": "Autonomous Curtainsider Truck // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "An ultra-futuristic fully driverless 40-tonne heavy-duty autonomous articulated truck with a separate long curtainsider trailer on several axles. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: autonomous curtainsider truck.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 80,
+  "file": "Krea2_Design_Baukasten_V2_01205_.png",
+  "title": "Thermal Regulation Outdoor Vest // A.I. Driven Product Design by Flo Mack",
+  "desc": "An AI-adaptive thermal regulation outdoor vest designed for 2040, with sternum tension harness, phase-change fluid conduits, and collar baffles. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: thermal regulation outdoor vest.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 81,
+  "file": "MCKDSGN_Transportation_00107_.png",
+  "title": "Fastback Grand Tourer // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric four-door fastback grand tourer with a flowing rear hatch, four usable seats and four wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: fastback grand tourer.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 82,
+  "file": "Krea2_Design_Baukasten_V2_01211_.png",
+  "title": "Paragliding Thermal Drone // A.I. Driven Product Design by Flo Mack",
+  "desc": "A future thermal-mapping companion drone for paragliding with one compact sensor body, guarded propulsion units, a separated airflow-measurement ring and a detachable radio beacon cartridge. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: paragliding thermal drone.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 83,
+  "file": "ST2_NEW_sewing_00001_.png",
+  "title": "Compact Sewing Machine // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Angled detail shot of an ultra-futuristic AI-assisted compact sewing machine, focused on the needle bar, bobbin cover and handwheel. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: compact sewing machine.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 84,
+  "file": "Krea2_Design_Baukasten_V2_01212_.png",
+  "title": "Paragliding Drone Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A future thermal-mapping companion drone for paragliding with one compact sensor body, guarded propulsion units, a separated airflow-measurement ring and a detachable radio beacon cartridge. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: paragliding drone detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 85,
+  "file": "MCKDSGN_Transportation_00111_.png",
+  "title": "Single-Seat Racing Pod // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "Single-seat electric racing pod with an open articulated chassis and oversized wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: single-seat racing pod.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 86,
+  "file": "Krea2_Design_Baukasten_V2_01218_.png",
+  "title": "Pickup Camper Cabin // A.I. Driven Product Design by Flo Mack",
+  "desc": "A pickup truck with a removable camper cabin on the cargo bed, an overhang sleeping section above the cab, rear entry steps and side storage lockers. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: pickup camper cabin.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 87,
+  "file": "MCKDSGN_Transportation_00112_.png",
+  "title": "Racing Pod Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "Single-seat electric racing pod with an open articulated chassis and oversized wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: racing pod detail.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 88,
+  "file": "Krea2_Design_Baukasten_V2_01221_.png",
+  "title": "Rehabilitation Exoskeleton // A.I. Driven Product Design by Flo Mack",
+  "desc": "A wearable rehabilitation exoskeleton with a compact pelvic support, individually adjustable leg modules, aligned hip and knee actuators and removable underfoot supports. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: rehabilitation exoskeleton.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 89,
+  "file": "ST2_NEW_shaver_00001_.png",
+  "title": "Rotary Shaver // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Macro detail shot of an ultra-futuristic AI-adaptive rotary electric shaver, focused on the shaving head, hinge and grip. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: rotary shaver.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 90,
+  "file": "Krea2_Design_Baukasten_V2_01223_.png",
+  "title": "Low Sports Car Front // A.I. Driven Product Design by Flo Mack",
+  "desc": "A low sports car with large front wheels close to the front corners, a pronounced front splitter, a low hood and a visible brake caliper behind the spokes. Long low proportion with dominant wheels. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: low sports car front.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 91,
+  "file": "MCKDSGN_Transportation_00113_.png",
+  "title": "Urban Crossover Side View // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric five-door urban crossover with a closed passenger cabin, a rear hatch and moderate ground clearance. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: urban crossover side view.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 92,
+  "file": "Krea2_Design_Baukasten_V2_01226_.png",
+  "title": "Crampons Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A pair of modular mountaineering crampons with connected toe and heel frames, fold-away traction points, flexible length-adjustable linking bars and clearly resolved boot attachments. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: crampons detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 93,
+  "file": "MCKDSGN_Transportation_00129_.png",
+  "title": "Curtainsider Truck Desert // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "An ultra-futuristic fully driverless 40-tonne heavy-duty autonomous articulated truck with a separate long curtainsider trailer on several axles. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: curtainsider truck desert.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 94,
+  "file": "Krea2_Design_Baukasten_V2_01227_.png",
+  "title": "Autonomous Monowing Drone // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous monowing drone with one continuous swept wing, a compact central equipment body, flush sensor windows and integrated electric propulsion. No passenger cabin or boat hulls. Coherent aerodynamic drone architecture. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: autonomous monowing drone.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 95,
+  "file": "ST2_NEW_thermostat_00001_.png",
+  "title": "Smart Thermostat // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Angled detail shot of an ultra-futuristic AI-adaptive smart wall thermostat, focused on the rotating ring, display window and wall plate. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: smart thermostat.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 96,
+  "file": "Krea2_Design_Baukasten_V2_01228_.png",
+  "title": "Monowing Drone Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous monowing drone with one continuous swept wing, a compact central equipment body, flush sensor windows and integrated electric propulsion. No passenger cabin or boat hulls. Coherent aerodynamic drone architecture. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: monowing drone detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 97,
+  "file": "MCKDSGN_Transportation_00130_.png",
+  "title": "Curtainsider Truck Rear // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "An ultra-futuristic fully driverless 40-tonne heavy-duty autonomous articulated truck with a separate long curtainsider trailer on several axles. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: curtainsider truck rear.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 98,
+  "file": "Krea2_Design_Baukasten_V2_01252_.png",
+  "title": "Molecular Water Carafe // A.I. Driven Product Design by Flo Mack",
+  "desc": "An AI-calibrated molecular water carafe designed for 2040, with upper intake funnel, aquaporin filter cartridge, and ergonomic pour spout. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: molecular water carafe.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 99,
+  "file": "MCKDSGN_Transportation_00131_.png",
+  "title": "Microcar Forest Scene // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One narrow enclosed electric urban microcar with two seats, small usable doors and four wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: microcar forest scene.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 100,
+  "file": "Krea2_Design_Baukasten_V2_01255_.png",
+  "title": "Race Car Wheel // A.I. Driven Product Design by Flo Mack",
+  "desc": "A race car wheel with a low-profile tire, a structural spoke wheel, a central hub with a locking accent, and a brake caliper and disc visible through the spokes. Wheel and tire fill the image as the main product. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: race car wheel.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 101,
+  "file": "ST2_drohne_altitude_00002_.png",
+  "title": "Cargo Drone Stratosphere View // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Looking down along the strongly curved horizon of the Earth, a thin glowing blue atmosphere line and deep dark sky above, clouds and coastline far below, the tiny ultra-futuristic arctic-grey autonomous heavy-lift cargo  Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone stratosphere view.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 102,
+  "file": "Krea2_Design_Baukasten_V2_01262_.png",
+  "title": "Wireless Earbuds Case // A.I. Driven Product Design by Flo Mack",
+  "desc": "A pair of wireless earbuds seated in an open charging case with two fitted recesses, a precise hinge and clear charging contacts. Small wearable product scale. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: wireless earbuds case.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 103,
+  "file": "MCKDSGN_Transportation_00132_.png",
+  "title": "Microcar Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One narrow enclosed electric urban microcar with two seats, small usable doors and four wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: microcar detail.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 104,
+  "file": "Krea2_Design_Baukasten_V2_01263_.png",
+  "title": "Sports Prosthetic Blade // A.I. Driven Product Design by Flo Mack",
+  "desc": "A sports prosthetic lower-leg concept with a lightweight ventilated socket, connected spring blade and textured ground-contact end. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: sports prosthetic blade.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 105,
+  "file": "MCKDSGN_Transportation_00133_.png",
+  "title": "Open Buggy Front View // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "Open electric buggy with exposed wheels, a low cockpit and a sculpted front. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: open buggy front view.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 106,
+  "file": "Krea2_Design_Baukasten_V2_01266_.png",
+  "title": "Two-Layer Technical Top // A.I. Driven Product Design by Flo Mack",
+  "desc": "An experimental technical upper garment built from two layers, an outer shell over a visible inner lining, with a prominent curved band running vertically down one side and a clean finished hem. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: two-layer technical top.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 107,
+  "file": "ST2_drohne_d02_sensors_00001_.png",
+  "title": "Cargo Drone Sensor Edge // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Polygonal ducted rotor guards and deep triangular cooling passages. translucent frosted panels reveal a fluorescent-yellow internal support mount, the only saturated accent. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone sensor edge.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 108,
+  "file": "Krea2_Design_Baukasten_V2_01267_.png",
+  "title": "Wireless Earbuds Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A pair of wireless earbuds seated in an open charging case with two fitted recesses, a precise hinge and clear charging contacts. Small wearable product scale. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: wireless earbuds detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 109,
+  "file": "MCKDSGN_Transportation_00134_.png",
+  "title": "Open Buggy Concept // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "Open electric buggy with exposed wheels, a low cockpit and a sculpted front. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: open buggy concept.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 110,
+  "file": "Krea2_Design_Baukasten_V2_01270_.png",
+  "title": "Inflatable Electric Speedboat // A.I. Driven Product Design by Flo Mack",
+  "desc": "A two-seat inflatable electric speedboat with tensioned shaped air chambers, diagonal air beams connecting bow and stern, a low cockpit, grab structures and a compact stern-mounted electric outboard. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: inflatable electric speedboat.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 111,
+  "file": "MCKDSGN_Transportation_00135_.png",
+  "title": "Passenger Shuttle 2060 // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric autonomous urban passenger shuttle with an enclosed cabin, four wheels and a wide low-floor access door. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: passenger shuttle 2060.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 112,
+  "file": "Krea2_Design_Baukasten_V2_01271_.png",
+  "title": "Driverless 40-Tonne Truck // A.I. Driven Product Design by Flo Mack",
+  "desc": "A fully driverless 40-tonne tractor-trailer about eighteen metres long. A compact closed wedge tractor has no glazed driver cabin, only a narrow sensor strip. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: driverless 40-tonne truck.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 113,
+  "file": "ST2_drohne_mlidar_00001_.png",
+  "title": "Cargo Drone Lidar Detail // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Polygonal ducted rotor guards and deep triangular cooling passages. translucent frosted panels reveal a fluorescent-yellow internal support mount, the only saturated accent. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone lidar detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 114,
+  "file": "Krea2_Design_Baukasten_V2_01272_.png",
+  "title": "Driverless Truck Rear View // A.I. Driven Product Design by Flo Mack",
+  "desc": "A fully driverless 40-tonne tractor-trailer about eighteen metres long. A compact closed wedge tractor has no glazed driver cabin, only a narrow sensor strip. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: driverless truck rear view.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 115,
+  "file": "MCKDSGN_Transportation_00136_.png",
+  "title": "Passenger Shuttle Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric autonomous urban passenger shuttle with an enclosed cabin, four wheels and a wide low-floor access door. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: passenger shuttle detail.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 116,
+  "file": "Krea2_Design_Baukasten_V2_01273_.png",
+  "title": "Autonomous City Shuttle // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous city shuttle with a compact passenger cabin, low entry floor, wide sliding door, modular seating and four connected wheel modules. Clear human-scale passenger space. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: autonomous city shuttle.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 117,
+  "file": "MCKDSGN_Transportation_00139_.png",
+  "title": "Fastback GT Side View // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "One electric four-door fastback grand tourer with a flowing rear hatch, four usable seats and four wheels. Original transportation design study. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: fastback gt side view.",
+  "person": true,
+  "posted": false
+ },
+ {
+  "n": 118,
+  "file": "Krea2_Design_Baukasten_V2_01274_.png",
+  "title": "City Shuttle Detail // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous city shuttle with a compact passenger cabin, low entry floor, wide sliding door, modular seating and four connected wheel modules. Clear human-scale passenger space. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: city shuttle detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 119,
+  "file": "ST2_drohne_myellow_00002_.png",
+  "title": "Cargo Drone Yellow Core // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Polygonal ducted rotor guards and deep triangular cooling passages. translucent frosted panels reveal a fluorescent-yellow internal support mount, the only saturated accent. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone yellow core.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 120,
+  "file": "Krea2_Design_Baukasten_V2_01278_.png",
+  "title": "Five-Axis CNC Milling Center // A.I. Driven Product Design by Flo Mack",
+  "desc": "A autonomous five-axis CNC milling center with a rigid connected machine bed, translating milling spindle, a two-axis tilting rotary work table, an integrated tool magazine and robotic pallet loading. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: five-axis cnc milling center.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 121,
+  "file": "YACHT916_fog_00005_.png",
+  "title": "Electric Yacht in Fog // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "The yacht appears as a dark clean silhouette against pale glowing mist, only the pin-sized green indicator light is clearly visible, side three-quarter view. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: electric yacht in fog.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 122,
+  "file": "Krea2_Design_Baukasten_V2_01282_.png",
+  "title": "Amphibious Vehicle // A.I. Driven Product Design by Flo Mack",
+  "desc": "A amphibious vehicle with a boat-shaped lower hull, retractable wheels, a rear waterjet, an elevated cabin and a bow wave deflector. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: amphibious vehicle.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 123,
+  "file": "YACHT916_glassedge_00002_.png",
+  "title": "Yacht Glass Edge Detail // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "The visible thickness of the flush frosted glass meeting smoke-clear glass at one perfectly straight vertical joint, satin silver roof edge above, a dark carbon brace blurred behind, small water droplets, shallow depth of field. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: yacht glass edge detail.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 124,
+  "file": "MOWERTOP916_0_00001_.png",
+  "title": "Robotic Lawn Mower // A.I. Driven Product Design by Flo Mack",
+  "desc": "Robotic Lawn Mower with frosted translucent shells, coral gradients and clean technical details. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: robotic lawn mower.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 125,
+  "file": "ST2_drohne_v01_front_00001_.png",
+  "title": "Heavy-Lift Cargo Drone // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Straight-on front view at eye level of an ultra-futuristic AI-powered autonomous heavy-lift cargo drone. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: heavy-lift cargo drone.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 126,
+  "file": "MOWERTOP_clean_916.png",
+  "title": "Robotic Lawn Mower Top View // A.I. Driven Product Design by Flo Mack",
+  "desc": "Robotic Lawn Mower Top View with frosted translucent shells, coral gradients and clean technical details. Produktkonzept von Flo Mack. #productdesign #industrialdesign #conceptdesign #aidesign",
+  "alt": "AI-generated concept render: robotic lawn mower top view.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 127,
+  "file": "YACHT916_interior_00001_.png",
+  "title": "Minimal Yacht Interior // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "A single low light-grey woven bench beneath frosted glass walls, slender shadow lines of the carbon fiber ribs falling across the bench and graphite floor, flat silver ceiling, soft diffused daylight, calm and empty. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: minimal yacht interior.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 128,
+  "file": "YACHT916_night_00003_.png",
+  "title": "Electric Yacht Blue Hour // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "The cabin glowing warm white through the frosted glass, the carbon frame silhouetted behind the smoke-clear glazing, a long perfect reflection in the water, deep blue sky. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: electric yacht blue hour.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 129,
+  "file": "ST2_drohne_v04_top_00001_.png",
+  "title": "Cargo Drone Top View // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Directly from above, of an ultra-futuristic AI-powered autonomous heavy-lift cargo drone. matte arctic-grey shells form sharply folded delta-shaped planes, polygonal ducted rotor guards and deep triangular cooling passages. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone top view.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 130,
+  "file": "YACHT916_waterline_00004_.png",
+  "title": "Yacht Half-Underwater // A.I. Driven Vehicle Design by Flo Mack",
+  "desc": "The upper half shows the satin silver hull and frosted glass above the surface, the lower half shows the clean pale hull below the waterline in clear blue-green water with light rays, perfectly level water line across the frame. Fahrzeugkonzept von Flo Mack. #vehicledesign #futuremobility #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: yacht half-underwater.",
+  "person": false,
+  "posted": false
+ },
+ {
+  "n": 131,
+  "file": "ST2_drohne_v05_low_00001_.png",
+  "title": "Cargo Drone Hero Shot // FUTURE PRODUCTS 2040 by Flo Mack",
+  "desc": "Polygonal ducted rotor guards and deep triangular cooling passages. translucent frosted panels reveal a fluorescent-yellow internal support mount, the only saturated accent. Produktvision 2040 von Flo Mack. #futureproducts2040 #productdesign #industrialdesign #aidesign",
+  "alt": "AI-generated concept render: cargo drone hero shot.",
+  "person": false,
+  "posted": false
+ }
+]
